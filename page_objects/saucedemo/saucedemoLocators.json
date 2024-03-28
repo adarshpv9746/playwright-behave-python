@@ -1,0 +1,6 @@
+{
+    "loginlogo":"#root > div > div.login_logo",
+    "username":"#user-name",
+    "password":"#password",
+    "loginbtn":"#login-button"
+}

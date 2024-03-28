@@ -1,0 +1,8 @@
+env
+venv
+.DS_Store
+reports
+features/__pycache__
+failure_screenshots
+.idea
+__pycache__
